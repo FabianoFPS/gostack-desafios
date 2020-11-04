@@ -31,11 +31,11 @@ function App() {
     api.delete(`${resouce}/${id}`)
       .then((response => {
         if(response.status === 204) {
-          const index = projects.findIndex((project) => project.id === id)
-          if(!!~index){
-            projects.splice(index, 1);
-            setProjects([...projects]);
-          }
+          const newProojectsList = projects.filter((project) => {
+            return project.id !== id;
+          })
+
+          setProjects(newProojectsList);
         }
       }))
       .catch((reject => console.log(reject)));

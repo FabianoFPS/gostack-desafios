@@ -1,6 +1,6 @@
 ![gostack](img-readme/logo_gostack.png)
 
-# Desafios - GoStack Bootcamp | [Rocketseate](https://rocketseat.com.br/)
+# Desafios - GoStack Bootcamp | [Rocketseat](https://rocketseat.com.br/)
 
 ## Table of Contents
 

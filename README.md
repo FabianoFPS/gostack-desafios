@@ -1,12 +1,16 @@
-![gostack](img-readme/logo_gostack.png)
-
-# Desafios - GoStack Bootcamp | [Rocketseate](https://rocketseat.com.br/)
+<p align="center" style="background: ">
+  <a href="" rel="noopener">
+ <img width=1200px height=300px src="./img-readme/banner.png" alt="Project logo"></a>
+</p>
+<div align="center">
+<h1>Desafios - GoStack Bootcamp | <a href="https://rocketseat.com.br/" rel="noopener">Rocketseate</a></h1>
+</div>
 
 ## Table of Contents
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Usage](#usage)
+- [Insomnia](#insomnia)
 
 ## About <a name = "about"></a>
 
@@ -29,6 +33,5 @@ Repositório dos desafios do curso: GoStack Bootcamp
 ### Installing
 
 ...
-## Usage <a name = "usage"></a>
-
+## Insomnia <a name = "insomnia"></a>
 

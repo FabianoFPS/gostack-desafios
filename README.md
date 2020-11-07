@@ -1,6 +1,6 @@
 <p align="center" style="background: ">
   <a href="" rel="noopener">
- <img width=1200px height=300px src="./files-readme/banner.png" alt="Project logo"></a>
+ <img width=838px src="./files-readme/banner.png" alt="Project logo"></a>
 </p>
 <div align="center">
 <h1>Desafios - GoStack Bootcamp | <a href="https://rocketseat.com.br/" rel="noopener">Rocketseate</a></h1>
